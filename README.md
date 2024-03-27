@@ -1,4 +1,4 @@
-# powershell
+# pwsh-config
 
 PowerShell Profile + Config + Modules + Scripts
 
@@ -18,7 +18,7 @@ PowerShell Profile + Config + Modules + Scripts
 
 `scoop install CascadiaCode-NF`
 
-4. Paste the terminal-settings/settings.json over existing Windows Terminal settings
+4. Change the Windows Terminal font by pasting the terminal-settings/settings.json over existing Windows Terminal settings
 
 5. Set vscode Terminal > Integrated: Font Family setting
 

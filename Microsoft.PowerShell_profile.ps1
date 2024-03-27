@@ -4,5 +4,8 @@ Import-Module PSReadLine
 Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Windows
-set-alias -name pn -value pnpm
 Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
+
+
+set-alias -name pn -value pnpm
+set-alias -name npp -value notepad++
