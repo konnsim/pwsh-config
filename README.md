@@ -26,4 +26,4 @@ PowerShell Profile + Config + Modules + Scripts
 
 6. Move profile, config, modules, and scripts folders in this repo to
 
-`%USERPROFILE%\Documents\PowerShell
+`%USERPROFILE%\Documents\PowerShell`
