@@ -18,12 +18,10 @@ PowerShell Profile + Config + Modules + Scripts
 
 `scoop install CascadiaCode-NF`
 
-4. Change the Windows Terminal font by pasting the terminal-settings/settings.json over existing Windows Terminal settings
+4. Move Modules folder, terminal-settings folder, konns.omp.json, and powershell.config.json in this repo to
+
+`%USERPROFILE%\Documents\PowerShell`
 
 5. Set vscode Terminal > Integrated: Font Family setting
 
 `CaskaydiaCove NF`
-
-6. Move profile, config, modules, and scripts folders in this repo to
-
-`%USERPROFILE%\Documents\PowerShell`
